@@ -1,0 +1,1 @@
+print "Hello in this world!\n"
